@@ -34,7 +34,7 @@
 </div>
 <h3 align="center">Pauline Aigueperse</h3>
 <h4 align="center">À propos de moi</h4>
-<div align="center" style="width: 100px;">
+<div align="center" width="50">
    Âgée de 20 ans, je suis une personne curieuse et qui s’intéresse à de nombreux domaines. Étudiante en informatique passionnée et compétente, j'approfondis constamment mes connaissances pour relever de nouveaux défis.
 </div>
 <h4>Formation</h4>
