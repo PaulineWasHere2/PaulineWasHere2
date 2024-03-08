@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey Bonjour Hallo
+  Bienvenue
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFkY2U4YnQxeWxvbGswOGdoenhoazhtdWNzdGIwN3FkNXkzYm5xciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6VElUbx4R1WvuirzwG/giphy.gif" width="50px"/>
 </h1>
 <div align="center">
@@ -31,4 +31,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<h3 align="center">Pauline Aigueperse</h3>
+<h4 align="center">À propos de moi</h4>
+<div align="center" style="width: 100px;">
+   Âgée de 20 ans, je suis une personne curieuse et qui s’intéresse à de nombreux domaines. Étudiante en informatique passionnée et compétente, j'approfondis constamment mes connaissances pour relever de nouveaux défis.
+</div>
+<h4>Formation</h4>
+<div style="width: 100px;">
+  • BUT Informatique<br>
+    IUT du Limousin<br>
+    Limoges<br>
+    2022-2023<hr>
+  • 1ère année de Licence Informatique<br>
+    Faculté des Sciences & Techniques<br>
+    Limoges<br>
+    2021-2022<hr>
+  • Baccalauréat Général Spécialité Maths-Physique<br>
+    Lycée Gay-Lussac<br>
+    Limoges<br>
+    2020-2021<hr>
+</div>
+<h4>Hobbies</h4>
+<div>
+  Je vais régulièrement à l’opéra et une de mes passions est le cinéma. De plus, je dessine régulièrement sur ordinateur ce qui me permet de m’exprimer grâce à l’art. J’apprécie également la lecture, je lis toutes sortes de romans. J’ai récemment commencé la plongée subaquatique.
 </div>
