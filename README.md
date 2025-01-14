@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx5cWE1enQ0NnM5dGJrcW82amxtbTd2N2tscDQzZTUxYmUyNmM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPu8kvxfwzo5UM8/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -54,5 +51,5 @@
 </div>
 <h4>Hobbies</h4>
 <div>
-  Je vais régulièrement à l’opéra et une de mes passions est le cinéma. De plus, je dessine régulièrement sur ordinateur ce qui me permet de m’exprimer grâce à l’art. J’apprécie également la lecture, je lis toutes sortes de romans. J’ai récemment commencé la plongée subaquatique.
+  Je vais régulièrement à l’opéra et une de mes passions est le cinéma. De plus, je dessine régulièrement sur ordinateur ce qui me permet de m’exprimer grâce à l’art. J’apprécie également la lecture, je lis toutes sortes de romans. J'ai déjà pris des cours de plongé et actuellement je prends des cours de tir à l'arc en intérieur. 
 </div>
