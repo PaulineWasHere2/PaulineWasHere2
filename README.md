@@ -16,7 +16,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxYWthemRpbXRvbTJqanF1ZGVpanJtcWxpMTF2c21idThhaTZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=PaulineWasHere2&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
   Bienvenue
@@ -35,7 +35,7 @@
 <h3 align="center">Pauline Aigueperse</h3>
 <h4 align="center">À propos de moi</h4>
 <div align="center" width="50">
-   Âgée de 20 ans, je suis une personne curieuse et qui s’intéresse à de nombreux domaines. Étudiante en informatique passionnée et compétente, j'approfondis constamment mes connaissances pour relever de nouveaux défis.
+   Âgée de 21 ans, je suis une personne curieuse et qui s’intéresse à de nombreux domaines. Étudiante en informatique passionnée et compétente, j'approfondis constamment mes connaissances pour relever de nouveaux défis.
 </div>
 <h4>Formation</h4>
 <div style="width: 100px;">
