@@ -35,6 +35,18 @@
 <div align="center" width="50">
    Âgée de 21 ans, je suis une personne curieuse et qui s’intéresse à de nombreux domaines. Étudiante en informatique passionnée et compétente, j'approfondis constamment mes connaissances pour relever de nouveaux défis.
 </div>
+<h4>Soft Skills</h4>
+<div>
+  Résolution de problèmes : je suis capable d'analyser des situations complexes, d'identifier les causes profondes et de trouver des solutions efficaces, que ce soit pour résoudre un bug ou améliorer un processus.
+
+  Communication : je sais m'expliquer clairement des concepts techniques, collaborer avec des équipes non techniques et partager des idées lors de réunions ou de revues de code.
+
+  Adaptabilité : je suis aussi m'ajuster rapidement aux nouvelles technologies, outils ou méthodes de travail, dans un domaine en constante évolution.
+
+  Travail d'équipe : j'ai de bonnes bases en matière de collaboration avec des collègues, comprendre les différents points de vue et contribuer à des projets collectifs de manière constructive.
+
+  Gestion du temps : je sais prioriser les tâches, respecter les délais et s'organiser pour livrer un travail de qualité tout en jonglant avec les imprévus.
+</div>
 <h4>Formation</h4>
 <div style="width: 100px;">
   • BUT Informatique<br>
