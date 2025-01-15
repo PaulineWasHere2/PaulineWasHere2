@@ -56,8 +56,8 @@
 </div>
 <h4>Arts</h4>
 <div align="center">
-<img src="https://pbs.twimg.com/media/GediUCFW4AAdjdM?format=jpg&name=4096x4096" height="300" align="center"/>
+<img src="https://pbs.twimg.com/media/GediUCFW4AAdjdM?format=jpg&name=4096x4096" height="600" align="center"/>
 <hr>
-<img src="https://pbs.twimg.com/media/GbAvQSKWsAAkiAo?format=jpg&name=large" width="300" align="center"/>
+<img src="https://pbs.twimg.com/media/GbAvQSKWsAAkiAo?format=jpg&name=large" width="600" align="center"/>
 </div>
 
