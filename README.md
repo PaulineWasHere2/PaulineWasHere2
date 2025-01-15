@@ -19,6 +19,7 @@
   Bienvenue
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFkY2U4YnQxeWxvbGswOGdoenhoazhtdWNzdGIwN3FkNXkzYm5xciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6VElUbx4R1WvuirzwG/giphy.gif" width="50px"/>
 </h1>
+<h4>Hard skills</h4>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
