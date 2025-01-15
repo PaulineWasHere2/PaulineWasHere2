@@ -53,3 +53,7 @@
 <div>
   Je vais régulièrement à l’opéra et une de mes passions est le cinéma. De plus, je dessine régulièrement sur ordinateur ce qui me permet de m’exprimer grâce à l’art. J’apprécie également la lecture, je lis toutes sortes de romans. J'ai déjà pris des cours de plongé et actuellement je prends des cours de tir à l'arc en intérieur. 
 </div>
+<h4>Arts</h4>
+<img src="https://pbs.twimg.com/media/GediUCFW4AAdjdM?format=jpg&name=4096x4096"/>
+<img src="https://pbs.twimg.com/media/GbAvQSKWsAAkiAo?format=jpg&name=large"/>
+
