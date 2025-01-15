@@ -37,15 +37,15 @@
 </div>
 <h4>Soft Skills</h4>
 <div>
-  Résolution de problèmes : je suis capable d'analyser des situations complexes, d'identifier les causes profondes et de trouver des solutions efficaces, que ce soit pour résoudre un bug ou améliorer un processus.
+  <strong>Résolution de problèmes </strong>: je suis capable d'analyser des situations complexes, d'identifier les causes profondes et de trouver des solutions efficaces
 
-  Communication : je sais m'expliquer clairement des concepts techniques, collaborer avec des équipes non techniques et partager des idées lors de réunions ou de revues de code.
+   <strong>Communication </strong>: je sais m'expliquer clairement des concepts techniques, collaborer avec des équipes non techniques et partager des idées lors de réunions ou de revues de code.
 
-  Adaptabilité : je suis aussi m'ajuster rapidement aux nouvelles technologies, outils ou méthodes de travail, dans un domaine en constante évolution.
+   <strong>Adaptabilité </strong>: je suis aussi m'ajuster rapidement aux nouvelles technologies, outils ou méthodes de travail, dans un domaine en constante évolution.
 
-  Travail d'équipe : j'ai de bonnes bases en matière de collaboration avec des collègues, comprendre les différents points de vue et contribuer à des projets collectifs de manière constructive.
+   <strong>Travail d'équipe </strong>: j'ai de bonnes bases en matière de collaboration avec des collègues, comprendre les différents points de vue et contribuer à des projets collectifs de manière constructive.
 
-  Gestion du temps : je sais prioriser les tâches, respecter les délais et s'organiser pour livrer un travail de qualité tout en jonglant avec les imprévus.
+   <strong>Gestion du temps </strong>: je sais prioriser les tâches, respecter les délais et s'organiser pour livrer un travail de qualité tout en jonglant avec les imprévus.
 </div>
 <h4>Formation</h4>
 <div style="width: 100px;">
